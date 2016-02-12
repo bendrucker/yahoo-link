@@ -1,7 +1,7 @@
 {
   "name": "yahoo-link",
   "main": "index.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Create Yahoo mail compose links, mailto-style",
   "license": "MIT",
   "repository": "bendrucker/yahoo-link",
