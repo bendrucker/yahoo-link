@@ -1,0 +1,37 @@
+{
+  "name": "yahoo-link",
+  "main": "index.js",
+  "version": "0.0.0",
+  "description": "Create Yahoo mail compose links, mailto-style",
+  "license": "MIT",
+  "repository": "bendrucker/yahoo-link",
+  "author": {
+    "name": "Ben Drucker",
+    "email": "bvdrucker@gmail.com",
+    "url": "bendrucker.me"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "keywords": [
+    "yahoo",
+    "mail",
+    "email",
+    "link",
+    "mailto",
+    "href"
+  ],
+  "devDependencies": {
+    "tape": "^4.0.0",
+    "standard": "^5.0.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "assert-ok": "~1.0.0",
+    "cast-array": "~1.0.1",
+    "object-filter": "~1.0.2",
+    "query-string": "~3.0.0"
+  }
+}
