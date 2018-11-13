@@ -1,4 +1,4 @@
-# yahoo-link [![Build Status](https://travis-ci.org/bendrucker/yahoo-link.svg?branch=master)](https://travis-ci.org/bendrucker/yahoo-link)
+# yahoo-link [![Build Status](https://travis-ci.org/bendrucker/yahoo-link.svg?branch=master)](https://travis-ci.org/bendrucker/yahoo-link) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/yahoo-link.svg)](https://greenkeeper.io/)
 
 > Generate a Yahoo mail compose link, mailto-style
 
