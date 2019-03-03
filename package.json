@@ -32,7 +32,7 @@
     "assert-ok": "~1.0.0",
     "cast-array": "~1.0.1",
     "object-filter": "~1.0.2",
-    "query-string": "~6.2.0"
+    "query-string": "~6.3.0"
   },
   "engines": {
     "node": ">=6"
