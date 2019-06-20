@@ -29,10 +29,10 @@
     "index.js"
   ],
   "dependencies": {
-    "assert-ok": "~1.0.0",
-    "cast-array": "~1.0.1",
-    "object-filter": "~1.0.2",
-    "query-string": "~6.7.0"
+    "assert-ok": "^1.0.0",
+    "cast-array": "^1.0.1",
+    "object-filter": "^1.0.2",
+    "query-string": "^6.7.0"
   },
   "engines": {
     "node": ">=6"
